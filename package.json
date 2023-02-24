@@ -1,0 +1,33 @@
+{
+  "type": "module",
+  "name": "entregable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/test/api/api.test.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.7.2",
+    "nodemailer": "^6.8.0",
+    "socket.io": "^4.5.3",
+    "twilio": "^4.7.2",
+    "winston": "^3.8.2"
+  },
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}

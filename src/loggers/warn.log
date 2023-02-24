@@ -1,0 +1,251 @@
+{"level":"error","message":"Error: TypeError: Cannot read properties of undefined (reading 'user')"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/cart"}
+{"level":"error","message":"Error: TypeError: Cannot read properties of undefined (reading 'user')"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/favicon.ico"}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 4\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 4\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b49605c8ba8859f4084130',\n  quantity: 1\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 1\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 1\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 1\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 1\n}\" (type Object) at path \"username\""}
+{"level":"error","message":"Error: ValidationError: username: Cast to string failed for value \"{\n  username: 'm@gmail.com',\n  idProduct: '63b495ac4207eabd4a000fcc',\n  quantity: 1\n}\" (type Object) at path \"username\""}
+{"level":"warn","message":"Not found URL: http://localhost:8080/alt=%22img%22/"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/no"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/no"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/no"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/No"}
+{"level":"warn","message":"Not found URL: http://localhost:8080/api/productos"}
+{"level":"error","message":"Error: MongooseError: Operation `productos.insertOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Error: CastError: Cast to ObjectId failed for value \"63b4983cec446b887f56703bs\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Error: CastError: Cast to ObjectId failed for value \"63b4983cec446b887f56703bs\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Error: CastError: Cast to ObjectId failed for value \"63dd7e4ad3329a7d4fce3f45d\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"}
+{"level":"error","message":"Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"}
+{"level":"error","message":"Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"}
+2/5/2023, 5:28:32 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/5/2023, 5:29:13 PM | [33mwarn[39m: Not found URL: http://localhost:8080/mensajes
+2/5/2023, 5:57:56 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:00:00 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:00:33 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:01:33 PM | [33mwarn[39m: Not found URL: http://localhost:8080/mensjes
+2/5/2023, 6:01:51 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:04:40 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:05:24 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:05:57 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:13:29 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/?EIO=4&transport=polling&t=OOZRKRG
+2/5/2023, 6:13:34 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/?EIO=4&transport=polling&t=OOZRLfx
+2/5/2023, 6:13:39 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/?EIO=4&transport=polling&t=OOZRMuW
+2/5/2023, 6:14:00 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 6:16:15 PM | [33mwarn[39m: Not found URL: http://localhost:8080/mensajes/socket.io/socket.io.js
+2/5/2023, 6:17:22 PM | [31merror[39m: Error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+2/5/2023, 6:27:24 PM | [33mwarn[39m: Not found URL: http://localhost:8080/socket.io/socket.io.js
+2/5/2023, 11:25:35 PM | [33mwarn[39m: Not found URL: http://localhost:8080/Sin
+2/5/2023, 11:25:48 PM | [33mwarn[39m: Not found URL: http://localhost:8080/Sin
+2/5/2023, 11:29:37 PM | [33mwarn[39m: Not found URL: http://localhost:8080/Sin
+2/5/2023, 11:29:54 PM | [33mwarn[39m: Not found URL: http://localhost:8080/Sin
+2/5/2023, 11:30:05 PM | [33mwarn[39m: Not found URL: http://localhost:8080/Sin
+2/5/2023, 11:39:18 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:50:32 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:52:05 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:53:16 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:53:25 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:53:42 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:53:56 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:54:06 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:55:50 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:56:30 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:57:46 PM | [31merror[39m: Error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+2/5/2023, 11:57:48 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:59:00 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:59:30 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/5/2023, 11:59:52 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/5/2023, 11:59:53 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/6/2023, 12:02:37 AM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/6/2023, 12:02:37 AM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/6/2023, 2:14:02 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/6/2023, 2:28:37 PM | [33mwarn[39m: Not found URL: http://localhost:8080/undefined
+2/7/2023, 3:23:11 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/7/2023, 4:30:57 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=
+2/7/2023, 4:32:55 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=
+2/7/2023, 5:06:42 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=
+2/8/2023, 11:58:16 AM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=
+2/8/2023, 12:18:52 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=
+2/8/2023, 1:52:07 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:52:39 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:52:40 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:52:42 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:52:46 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:53:14 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:54:09 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:54:11 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:54:13 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:54:19 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:57:02 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:57:51 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 1:59:14 PM | [31merror[39m: Error: BSONTypeError: Argument passed in does not match the accepted types
+2/8/2023, 5:36:47 PM | [33mwarn[39m: Not found URL: http://localhost:8080/signupfial
+2/9/2023, 9:20:46 PM | [33mwarn[39m: Not found URL: http://localhost:8080/sdl%C3%B1afjk
+2/9/2023, 9:21:10 PM | [33mwarn[39m: Not found URL: http://localhost:8080/sdl%C3%B1afjk
+2/9/2023, 9:21:21 PM | [33mwarn[39m: Not found URL: http://localhost:8080/sdl%C3%B1afjk
+2/9/2023, 9:21:24 PM | [33mwarn[39m: Not found URL: http://localhost:8080/sdl%C3%B1afjk
+2/9/2023, 9:42:17 PM | [33mwarn[39m: Not found URL: http://localhost:8080/sdf
+2/9/2023, 9:42:32 PM | [33mwarn[39m: Not found URL: http://localhost:8080/sdf
+2/9/2023, 9:56:09 PM | [33mwarn[39m: Not found URL: http://localhost:8080/l
+2/9/2023, 10:03:50 PM | [33mwarn[39m: Not found URL: http://localhost:8080/styles/styles.css
+2/9/2023, 10:04:05 PM | [33mwarn[39m: Not found URL: http://localhost:8080/styles/styles.css
+2/9/2023, 10:04:05 PM | [33mwarn[39m: Not found URL: http://localhost:8080/js/main.js
+2/12/2023, 5:37:59 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/13/2023, 4:19:07 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/13/2023, 4:19:13 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/13/2023, 4:21:09 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/13/2023, 4:23:27 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/13/2023, 4:31:39 PM | [33mwarn[39m: Not found URL: http://localhost:8080/index.html
+2/13/2023, 4:31:45 PM | [33mwarn[39m: Not found URL: http://localhost:8080/index.html
+2/13/2023, 4:32:34 PM | [33mwarn[39m: Not found URL: http://localhost:8080/index.html
+2/13/2023, 4:53:34 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/13/2023, 5:16:23 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/escolares
+2/13/2023, 5:17:28 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:18:09 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:18:11 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:18:33 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:18:41 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:19:33 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:19:40 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:20:12 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:21:08 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:21:10 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:26:17 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:26:50 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:27:35 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 5:28:37 PM | [31merror[39m: Error: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/13/2023, 9:38:37 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/15/2023, 7:28:40 PM | [31merror[39m: Cannot read properties of undefined (reading 'normalize')
+2/15/2023, 7:28:50 PM | [31merror[39m: Cannot read properties of undefined (reading 'normalize')
+2/15/2023, 7:29:22 PM | [31merror[39m: Cannot read properties of undefined (reading 'normalize')
+2/15/2023, 7:30:06 PM | [31merror[39m: Cannot read properties of undefined (reading 'normalize')
+2/15/2023, 7:30:31 PM | [31merror[39m: Cannot read properties of undefined (reading 'normalize')
+2/15/2023, 7:31:51 PM | [31merror[39m: Cannot read properties of undefined (reading 'normalize')
+2/15/2023, 7:34:54 PM | [31merror[39m: getAllAndRewrite is not defined
+2/15/2023, 7:34:56 PM | [31merror[39m: getAllAndRewrite is not defined
+2/16/2023, 4:11:07 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/16/2023, 4:12:10 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/16/2023, 4:12:46 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/16/2023, 4:14:00 PM | [33mwarn[39m: Credencials incorrects
+2/16/2023, 4:26:10 PM | [33mwarn[39m: Password incorrect
+2/16/2023, 4:26:28 PM | [33mwarn[39m: User not exists
+2/16/2023, 4:28:00 PM | [33mwarn[39m: Username doesn't exist
+2/16/2023, 4:28:12 PM | [33mwarn[39m: Password incorrect
+2/16/2023, 4:28:37 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/16/2023, 4:30:54 PM | [33mwarn[39m: User already exists
+2/16/2023, 4:30:54 PM | [33mwarn[39m: Not found URL: http://localhost:8080/signupfial
+2/16/2023, 4:33:21 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alsdkf
+2/16/2023, 4:34:00 PM | [33mwarn[39m: User already exists
+2/16/2023, 4:34:32 PM | [33mwarn[39m: Not found URL: http://localhost:8080/home
+2/16/2023, 4:36:57 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/16/2023, 4:38:16 PM | [33mwarn[39m: Not found URL: http://localhost:8080/slkfj
+2/16/2023, 9:00:43 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:01:14 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:01:35 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:01:35 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:02:23 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:06:56 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:08:38 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/16/2023, 9:26:21 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:40:54 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/17/2023, 12:41:04 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:42:32 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:44:01 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:45:22 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:45:29 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:45:49 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:46:01 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:46:09 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:46:18 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:46:42 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:46:51 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:47:00 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:47:05 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:47:45 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:47:56 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:48:06 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:49:08 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:49:18 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:49:28 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:50:33 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:51:19 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:51:27 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:51:49 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:55:14 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:55:42 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:58:18 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:58:50 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 12:59:23 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:00:29 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:02:01 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:02:29 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:02:49 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:03:20 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:04:39 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:05:46 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:06:15 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:10:20 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:25:13 PM | [33mwarn[39m: Not found URL: http://localhost:8080/alt=%22avatar%22
+2/17/2023, 1:34:48 PM | [31merror[39m: mensajes validation failed: author.id: Path `author.id` is required.
+2/17/2023, 5:33:51 PM | [31merror[39m: Authenticate
+2/17/2023, 5:34:38 PM | [31merror[39m: Authenticate
+2/17/2023, 5:37:35 PM | [31merror[39m: Authenticate
+2/17/2023, 5:44:46 PM | [31merror[39m: Authenticate
+2/17/2023, 6:28:48 PM | [31merror[39m: Authenticate
+2/21/2023, 5:37:22 PM | [33mwarn[39m: Not found URL: http://localhost:8080/favicon.ico
+2/21/2023, 5:38:20 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/21/2023, 5:39:37 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 5:15:00 PM | [33mwarn[39m: Not found URL: http://localhost:8080/infos
+2/23/2023, 5:18:44 PM | [33mwarn[39m: Not found URL: http://localhost:8080/infos
+2/23/2023, 5:19:03 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productoss
+2/23/2023, 5:19:11 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productoss
+2/23/2023, 5:35:19 PM | [33mwarn[39m: Not found URL: http://localhost:8080/logins
+2/23/2023, 6:52:17 PM | [31merror[39m: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials be41-20020a05680821a900b0037d74967ef6sm2893818oib.44 - gsmtp
+2/23/2023, 6:52:18 PM | [31merror[39m: Authenticate
+2/23/2023, 6:58:35 PM | [31merror[39m: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k7-20020a056870d38700b00172899830dasm705427oag.4 - gsmtp
+2/23/2023, 6:58:36 PM | [31merror[39m: Error: Authenticate: error al enviar Whatsapp por nueva compra, corrobore la configuración del servicio
+2/23/2023, 7:02:53 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:08:13 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/esco
+2/23/2023, 7:08:13 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/styles/styles.css
+2/23/2023, 7:08:28 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/categoria/escolares
+2/23/2023, 7:08:28 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/categoria/styles/styles.css
+2/23/2023, 7:09:02 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos-cat/escolar
+2/23/2023, 7:09:02 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos-cat/styles/styles.css
+2/23/2023, 7:09:07 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos-cat/escolares
+2/23/2023, 7:09:07 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos-cat/styles/styles.css
+2/23/2023, 7:09:52 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:10:02 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:10:03 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:11:34 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/categoria/otros
+2/23/2023, 7:11:40 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/categoria/otros
+2/23/2023, 7:11:45 PM | [33mwarn[39m: Not found URL: http://localhost:8080/productos/categoria/styles/styles.css
+2/23/2023, 7:12:25 PM | [31merror[39m: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2/23/2023, 7:12:37 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:14:27 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:17:52 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:17:55 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:17:56 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:17:57 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:17:58 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:00 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:02 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:03 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:04 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:06 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:07 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:10 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:12 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/23/2023, 7:18:13 PM | [33mwarn[39m: Not found URL: http://localhost:8080/no
+2/24/2023, 12:14:39 PM | [33mwarn[39m: Not found URL: http://localhost:8080/chat/m@gmail.com
+2/24/2023, 12:14:39 PM | [33mwarn[39m: Not found URL: http://localhost:8080/chat/styles/styles.css
+2/24/2023, 12:17:34 PM | [33mwarn[39m: Not found URL: http://localhost:8080/chat/m@gmail.com
+2/24/2023, 12:17:34 PM | [33mwarn[39m: Not found URL: http://localhost:8080/chat/styles/styles.css
+2/24/2023, 12:18:24 PM | [33mwarn[39m: Not found URL: http://localhost:8080/chat/as
+2/24/2023, 12:18:25 PM | [33mwarn[39m: Not found URL: http://localhost:8080/chat/styles/styles.css
