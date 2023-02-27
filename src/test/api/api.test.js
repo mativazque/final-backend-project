@@ -6,8 +6,8 @@ import initServer from "../../../server.js" // To init Server automatic
 const request = supertest("http://127.0.0.1:8080")
 
 const newProduct = {
-    title: "Regla XXX",
-    price: 30,
+    title: "Regla ZZZZZ",
+    price: 100,
     thumbnail: "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
     category: "escolares"
 }
@@ -35,7 +35,7 @@ describe("test api rest full", () => {
     })
     describe("DELETE", () => {
         it("should delete a product that existing", (done) => {
-            request.delete("/api/productos/63deee4116c6b06ce40b1ceb")
+            request.delete("/api/productos/63e3d8d96a33b3689fad5b8f")
                 .then((res) => {
                     expect(res.status).to.eql(200)
                     done()
@@ -44,7 +44,7 @@ describe("test api rest full", () => {
     })
     describe("UPDATE", () => {
         it("should update a product that existing", (done) => {
-            request.put("/api/productos/63def1e94977c983487866ee").send(newProduct)
+            request.put("/api/productos/63e3c0da42ab878ede52162b").send(newProduct)
                 .then((res) => {
                     expect(res.status).to.eql(200)
                     done()
